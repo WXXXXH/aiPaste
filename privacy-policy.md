@@ -24,8 +24,20 @@
 - Apple In-App Purchases（用于购买高级功能）
 - Google AdMob（用于展示广告，若集成）
 - Firebase Crashlytics（用于错误跟踪，若启用）
+- Lottie：用于动画展示；
+- MBProgressHUD：用于显示加载提示；
+- RxSwift / RxCocoa / RxRelay：用于响应式编程与界面数据绑定；
+- SDWebImage：用于图片异步加载与缓存；
+- SnapKit：用于简化自动布局；
 
-这些服务可能会根据其自身的隐私政策收集匿名设备信息。
+这些 SDK 可能会收集有限的匿名数据，用于以下目的：
+- 性能监控；
+- 用户界面体验优化；
+- 图片缓存与加载优化；
+- 动画渲染效率提升；
+- 网络请求管理。
+
+我们会确保这些第三方库遵循 Apple 的隐私要求，并持续更新至包含 Privacy Manifest 的合规版本。我们不允许这些 SDK 访问或传输任何可识别您身份的个人信息。
 
 ---
 
