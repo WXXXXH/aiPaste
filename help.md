@@ -10,7 +10,7 @@
 <img width="460" alt="Group 1261155976" src="https://github.com/user-attachments/assets/82053b61-bddf-48d4-ade6-4858be7a1d18" /><br><br>
 
 <strong>3.</strong> 点击 <strong>开始直播</strong>，<strong>屏幕录制</strong> 按钮会变成倒计时。开始直播后，屏幕顶部会出现下面标记。
-<img width="82" height="32" alt="IMG_6438" src="https://github.com/user-attachments/assets/2602bdfb-ab92-41b0-ab67-806d2b53d37a" />
+<img width="52" alt="IMG_6438" src="https://github.com/user-attachments/assets/2602bdfb-ab92-41b0-ab67-806d2b53d37a" />
 <strong>在直播开始前不要滚动屏幕内容。</strong><br><br>
 
 <strong>4.</strong> <strong>Fast</strong> 支持 <strong>从上到下滚动</strong>，也支持 <strong>从下往上滚动</strong>。<br>
